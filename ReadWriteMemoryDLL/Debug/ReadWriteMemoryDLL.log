@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+  rwmlib.cpp
+D:\Uni\5sem\OSiSP\LB\LB3\ReadWriteMemoryDLL\ReadWriteMemoryDLL\rwmlib.cpp(31,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Uni\5sem\OSiSP\LB\LB3\ReadWriteMemoryDLL\ReadWriteMemoryDLL\rwmlib.cpp(39,40): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ReadWriteMemoryDLL.vcxproj -> D:\Uni\5sem\OSiSP\LB\LB3\ReadWriteMemoryDLL\Debug\ReadWriteMemoryDLL.dll
